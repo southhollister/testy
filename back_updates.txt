@@ -1,0 +1,3 @@
+Updates made:
+Added new ETV to template and ETV list. ETV name: backnavtext; ETV value: ETV_BACK_TEXT 
+Created data map back_text.
